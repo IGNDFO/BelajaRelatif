@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">belajar_relatif</string>
+
+    <string-array name="arr_kpd">
+        <item>DORAEMON</item>
+        <item>ULTRAMAN</item>
+        <item>RED BULLS</item>
+    </string-array>
 </resources>
